@@ -17,11 +17,6 @@ _**bold and italic**_
 
 use tildes for `monospace text`
 
-\```js
-// code block
-console.log("Hello world");
-\```
-
 you can make lists:
 * item 1
 * item 2
