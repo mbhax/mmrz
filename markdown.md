@@ -31,18 +31,21 @@ this is an ordered list:
   1. item 2a
   1. item 2b
 
-link: [GitHub](http://github.com)
+link:
+[GitHub](http://github.com)
 
-link with title: [GitHub](http://github.com "Github Homepage")
+link with title:
+[GitHub](http://github.com "Github Homepage")
 
-link to a local file: [click me](./path/to/file)
+link to a local file:
+[click me](./path/to/file)
 
 insert an image:
 ![GitHub Logo](/images/logo.png)
 
 > blockquote
 
-you can make task list:
+you can make task lists:
 - [x] this is done
 - [ ] this is not done
 
@@ -80,3 +83,7 @@ add a youtube video:
 horizontal rule:
 ---
 ```
+
+Src:
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://guides.github.com/features/mastering-markdown/
