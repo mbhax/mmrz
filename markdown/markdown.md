@@ -17,7 +17,10 @@ _**bold and italic**_
 
 use tildes for `monospace text`
 
-~~crossed out text~~
+\```js
+// code block
+console.log("Hello world");
+\```
 
 you can make lists:
 * item 1
@@ -42,8 +45,6 @@ link to a local file:
 
 insert an image:
 ![GitHub Logo](/images/logo.png)
-
-> blockquote
 
 you can make task lists:
 - [x] this is done
@@ -79,6 +80,10 @@ add a youtube video:
     height="180"
     border="10" />
 </a>
+
+~~crossed out text~~
+
+> blockquote
 
 horizontal rule:
 ---
